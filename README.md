@@ -1,8 +1,11 @@
 # Saidmurodov Azimjon
+
 #Front-End React Development
+
 ##Connect with me: 
+
 -[Email](saidmurodovazim808@gmail.com)
--[Telegram](t.me/azim4ik_06)
+-[Telegram](https://t.me/azim4ik_06)
 
 
 # 💻 Tech Stack:
