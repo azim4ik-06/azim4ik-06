@@ -4,7 +4,7 @@
 
 ## Connect with me: 
 
-- [Email](https://mail.google.com/saidmurodovazim808@gmail.com)
+- [Email](mailto:saidmurodovazim808@gmail.com)
 - [Telegram](https://t.me/azim4ik_06)
 
 
